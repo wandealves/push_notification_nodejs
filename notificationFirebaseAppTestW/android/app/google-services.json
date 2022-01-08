@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "64660706824",
+    "project_id": "notification-firebase-d6867",
+    "storage_bucket": "notification-firebase-d6867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64660706824:android:4dcdb6d7434ee65400e3bd",
+        "android_client_info": {
+          "package_name": "com.notificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64660706824-ni695geqqsd21hgrj45uua2g1i9tp8b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsnSdSTCJimh31s8XT3Gasi09mKcaRc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64660706824-ni695geqqsd21hgrj45uua2g1i9tp8b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64660706824:android:9232acd650c6126500e3bd",
+        "android_client_info": {
+          "package_name": "com.notificationfirebaseapptestw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64660706824-h5gc8uv0hbde1iikghst3pu3ldop5qt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notificationfirebaseapptestw",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "64660706824-ni695geqqsd21hgrj45uua2g1i9tp8b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsnSdSTCJimh31s8XT3Gasi09mKcaRc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64660706824-ni695geqqsd21hgrj45uua2g1i9tp8b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
